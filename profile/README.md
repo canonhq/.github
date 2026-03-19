@@ -37,10 +37,10 @@ Canon fixes this by treating specs as **living programs** — structured markdow
 
 | Path | Best for |
 |------|----------|
-| **[GitHub App](https://canonhq.co/docs/getting-started/installation.html)** | Teams wanting full automation — PR analysis, ticket sync, coverage dashboard |
-| **[CLI](https://canonhq.co/docs/reference/cli.html)** | Individual developers — `canon setup`, `status`, `verify`, `sync`, `plan` |
-| **[MCP Server](https://canonhq.co/docs/getting-started/installation.html#mcp-server)** | AI-assisted development — spec context in Claude Code, Cursor, Windsurf |
-| **[Self-Hosted](https://canonhq.co/docs/guides/self-hosting.html)** | Full control — deploy on your own K8s cluster |
+| **[GitHub App](https://canonhq.co/docs/getting-started/installation)** | Teams wanting full automation — PR analysis, ticket sync, coverage dashboard |
+| **[CLI](https://canonhq.co/docs/reference/cli)** | Individual developers — `canon setup`, `status`, `verify`, `sync`, `plan` |
+| **[MCP Server](https://canonhq.co/docs/getting-started/installation#mcp-server)** | AI-assisted development — spec context in Claude Code, Cursor, Windsurf |
+| **[Self-Hosted](https://canonhq.co/docs/guides/self-hosting)** | Full control — deploy on your own K8s cluster |
 
 ### Quick Start
 
@@ -51,4 +51,4 @@ canon setup
 
 ### Links
 
-[Documentation](https://canonhq.co/docs/) · [Quick Start](https://canonhq.co/docs/getting-started/quickstart.html) · [Writing Specs](https://canonhq.co/docs/guides/writing-specs.html) · [Spec Format](https://canonhq.co/docs/reference/spec-format.html) · [Contributing](https://github.com/canonhq/canon/blob/main/CONTRIBUTING.md)
+[Documentation](https://canonhq.co/docs) · [Quick Start](https://canonhq.co/docs/getting-started/quickstart) · [Writing Specs](https://canonhq.co/docs/guides/writing-specs) · [Spec Format](https://canonhq.co/docs/reference/spec-format) · [Contributing](https://github.com/canonhq/canon/blob/main/CONTRIBUTING.md)
